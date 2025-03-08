@@ -10,6 +10,10 @@ Python-based designed to help users monitor and analyze their nutrition and work
 1. [Future Improvements](#future-improvements)
 1. [License](#license)
 
+## Showcase Of Project :
+
+
+
 ## Features
 - **Easy to Use UI Meal and Exercise Logging**: Log meals and exercises using data, processed through the Nutrition API for detailed nutritional info and calories burned.
 - **Habit Tracking and Visualization**: Track and visualize health and fitness habits using data, enhanced with custom Python visualizations for in-depth data analysis.
