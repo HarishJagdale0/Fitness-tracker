@@ -12,7 +12,10 @@ Python-based designed to help users monitor and analyze their nutrition and work
 
 ## Showcase Of Project :
 
-
+<img width="1425" alt="Image" src="https://github.com/user-attachments/assets/9be68c98-878e-4adf-ad99-8ce498d61bd7" />
+<img width="1056" alt="Image" src="https://github.com/user-attachments/assets/edcbd109-bee6-4b06-add7-31c1372a8c17" />
+<img width="1055" alt="Image" src="https://github.com/user-attachments/assets/2d4d0872-0338-4f99-b952-f91edb58864a" />
+<img width="1084" alt="Image" src="https://github.com/user-attachments/assets/d24f3756-b408-4579-b660-5eb1ad7f807b" />
 
 ## Features
 - **Easy to Use UI Meal and Exercise Logging**: Log meals and exercises using data, processed through the Nutrition API for detailed nutritional info and calories burned.
