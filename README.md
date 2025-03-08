@@ -1,6 +1,6 @@
 # Personal Fitness Tracking System Using PYTHON & STREAMLIT
 
-Python-based designed to help users monitor and analyze their nutrition and workout routines. Utilizing streamlit through Nutrition APIs, it simplifies the logging of meals and exercises. This app makes health tracking accessible to everyone.
+Python-based designed to help users monitor and analyze their nutrition and workout routines. Utilizing streamlit through Nutrition APIs, it simplifies the logging of meals and exercises. This app makes health tracking accessible to everyone. This is the iteration of a health dashboard I have built. The focus on this one was to fully automate the back-end and put less emphasis on the front-end. For that reason, I choose Streamlit since it allows for rapid deployment of simple applications. For a detailed explanation of the back-end data is Provided the Organization.
 
 ## Table of Contents
 1. [Features](#features)
