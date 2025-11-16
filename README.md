@@ -4,7 +4,6 @@ Python-based designed to help users monitor and analyze their nutrition and work
 
 ## Go Live Demo Of Project : 
 https://harishjagdale0/Fitness-tracker-streamlit-app/
-(No Longer Live Project in Web Application.)
 
 ## Table of Contents
 1. [Features](#features)
